@@ -1,5 +1,5 @@
-#Free Dialogue System for Unity
-
+# Free Dialogue System for Unity
+This system is designed to help devs create visual novel interfaces with advanced features on par with software such as ren'py, or just have basic dialogue.
 This free dialogue system for the unity game engine contains many advanced features such as:
 ![Screenshot 2025-06-10 120902](https://github.com/user-attachments/assets/b777259d-ece3-4120-8e9c-6db0878f8ca9)
 1. Dialogue options
