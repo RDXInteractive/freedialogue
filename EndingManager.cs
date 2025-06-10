@@ -13,11 +13,6 @@ public class EndingManager : MonoBehaviour
     public GameObject endingPanel;
     public void checkEnding()
     {
-        if (choiceManager.choices[3] == 1)
-        {
-            endingText.text = "Silas was the Murderer";
-            endingPanel.SetActive(true);
-        }
         
     }
     // Update is called once per frame
