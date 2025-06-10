@@ -31,8 +31,5 @@ public class ValueTracker : MonoBehaviour
 
 public enum valueKey
 {
-    JaySus,
-    JillSus,
-    CurtisSus,
-    SilasSus
+    
 }
